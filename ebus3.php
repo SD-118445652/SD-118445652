@@ -28,7 +28,7 @@ div {
         <!-- //strating the session to get the session variable from last page -->
         
     
-    
+        <h1 s> E-Receipt </h1>
     <center>
 <div class="styles">
     <center>
